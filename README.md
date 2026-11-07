@@ -217,7 +217,7 @@ aboutLibraries {
         // filterVariants.addAll("debug", "release")
 
         // Enable inclusion of `platform` dependencies in the library report
-        includePlatform = true
+        includePlatform = fals
 
         // Enable reporting of the Kotlin targets each library is consumed by, as a `targets` array
         // on every library (e.g. ["android", "jvm", "iosX64"]). Target names are taken from the
